@@ -1,77 +1,45 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Deepa Rangarajan
+role: Software Development Engineer
+avatar_filename: avatar.jpg
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Energy Efficient Artificial Intelligence
+  - Computer Vision for achieving UN's Sustainable Development Goals
+  - Green Computer Networking Solutions
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+    display:
+      header: true
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/deepa0299
+    display:
+      header: true
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/deepa-rangarajan-13045a178/
+    display:
+      header: true
+organizations:
+  - name: Goldman Sachs
+    url: https://www.goldmansachs.com/worldwide/india/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Bachelor of Technology with Major in Computer Science & Engineering and
+        Minor in Mathematics
+      institution: Shiv Nadar University
+      year: 2018
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
+I am a 22 years old computer science engineer and I work across the stack at the investment banking firm, Goldman Sachs, as a software developer. I completed my Bachelor of Technology with major in Computer Science and Engineering and minor in Mathematics in June 2021.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in marrying Artificial Intelligence with sustainability for societal and environmental benefits. This includes implementing models in artificial intelligence subdomains like Computer Vision, CommenSense Systems and Natural Language Processing to solve some of the major problems faced by humanity with food, agriculture, climate change, wildlife protection, crimes against women, global access of education, etc. However along with the colossal impact that AI can have in improving life on this planet, AI models can have huge carbon footprints as per the research done in the past decade. I want to work towards increasing this awareness in our community and encourage scientists and developers to give significance to the energy factor while calculating the efficiency of an AI model. I am also interested in researching further into improving the energy efficiency of AI models to reduce their carbon footprint.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am highly passionate about yoga- questioning the traditional techniques, researching about the different types by experimenting with my own yoga practice, trying to connect to my soul and building a community where we can exchange these thoughts. I love cooking wholesome food and cherishing the wonderful gift that Mother Earth has given us in the form of fruits and vegetables. 5 minutes of pop music is all I need to get me going through a hard day.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my resumé.
