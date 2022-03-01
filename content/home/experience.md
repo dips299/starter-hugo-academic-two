@@ -53,13 +53,13 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-11'
     description: |2- 
-        As a part of the Learning and Academic Support Centre (LASC) programme of Shiv Nadar University, tutored undergraduate students for data structures course. Responsibilities included:
+        As a part of the Learning and Academic Support Centre (LASC) program of Shiv Nadar University, tutored undergraduate students for data structures course. Responsibilities included:
     
-        * developing teaching resources
-        * conducting classes thrice a week
-        * preparing worksheets
-        * taking periodic tests
-        * organizing doubt clearing sessions
+        * developing teaching resources,
+        * conducting classes thrice a week,
+        * preparing worksheets,
+        * taking periodic tests, and 
+        * organizing doubt clearing sessions.
     
   - title: Software Development Intern
     company: Goldman Sachs
@@ -77,7 +77,10 @@ experience:
     location: Delhi NCR, India
     date_start: '2019-05-26'
     date_end: '2019-07-30'
-    description: Developed an android app prototype for Electric Vehicle charging bookings and payments for standalone charging stations and documented the user manual.
+    description: |2-
+    
+        * Developed an android app prototype for Electric Vehicle charging bookings with features like locating nearby charging stations, checking for the availability of a spare charging booth with the required charger type and booking a slot prior to your arrival.
+        * Documented the user manual and complaiance policies for Electric Vehicle Charging application.
     
   - title: Spoken English Community Mobilizer
     company: Teach India Programme - Times of India
@@ -86,7 +89,11 @@ experience:
     location: Delhi NCR, India
     date_start: '2015-05-15'
     date_end: '2015-06-30'
-    description: Educated the underprivileged communities with spoken English classes for better job opportunities given the necessity of this language in today’s modern world. 
+    description: |2-
+        Worked as a community mobilizer for the Times of India group's "Teach India" initiative in collaboration with the British Council which aims to give learners the confidence to use English in contexts such as retail, customer service, travel and hospitality, financial services and job interviews. The job required:
+        * canvassing slum areas, 
+        * enlightening the underprivileged communities about spoken English classes for better job opportunities, and 
+        * encouraging masses to enroll in this free program. 
 
 design:
   columns: '1'
