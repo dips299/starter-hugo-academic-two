@@ -7,10 +7,11 @@ interests:
   - Energy Efficient Artificial Intelligence
   - Computer Vision for achieving UN's Sustainable Development Goals
   - Green Computer Networking Solutions
+  - System Design and Architecture
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:deepa.r299@gmail.com
     display:
       header: true
   - icon: twitter
