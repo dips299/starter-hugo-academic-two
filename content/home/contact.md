@@ -25,11 +25,6 @@ content:
       
   email: deepa.r299@gmail.com
   
-  contact_links:
-    icon: twitter
-    name: DM Me
-    link: https://twitter.com/deepa0299
-  
 design:
   columns: '2'
 ---
