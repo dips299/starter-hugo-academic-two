@@ -3,11 +3,6 @@ title: Deepa Rangarajan
 role: Software Development Engineer
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Energy Efficient Artificial Intelligence
-  - Computer Vision for achieving UN's Sustainable Development Goals
-  - Green Computer Networking Solutions
-  - System Design and Architecture
 social:
   - icon: download
     icon_pack: fas
@@ -32,12 +27,6 @@ social:
 organizations:
   - name: Goldman Sachs
     url: https://www.goldmansachs.com/worldwide/india/
-education:
-  courses:
-    - course: Bachelor of Technology with Major in Computer Science & Engineering and
-        Minor in Mathematics
-      institution: Shiv Nadar University
-      year: 2021
 email: ""
 superuser: true
 highlight_name: true

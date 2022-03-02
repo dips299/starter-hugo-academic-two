@@ -6,4 +6,7 @@ weight: 10
 title: About Me
 active: true
 author: admin
+design:
+    background: 
+        color: 'snow'
 ---
