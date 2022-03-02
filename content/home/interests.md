@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "2"
   background:
-    color: 'WhiteSmoke'
+    color: 'LavenderBlush'
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
