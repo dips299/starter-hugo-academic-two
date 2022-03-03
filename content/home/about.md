@@ -9,5 +9,4 @@ author: admin
 design:
     background: 
         color: 'snow'
-        text_color_light: false
 ---
